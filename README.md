@@ -9,5 +9,6 @@ mudar os valores das seguintes chaves:
 ```
 widget.content.allow-gtk-dark-theme = true
 widget.chrome.allow-gtk-dark-theme = true
+widget.content.gtk-theme-override = NomeDoTema
 ```
 
